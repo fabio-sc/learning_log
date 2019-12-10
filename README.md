@@ -1,2 +1,2 @@
-This material serve a django study,
+This material serves a django study,
 there is no real applicability.
